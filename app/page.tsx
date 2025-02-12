@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 export default function Page() {
-  return <h1>Hello, Cloudflare!</h1>;
+  return <Button>Hello, Cloudflare!</Button>;
 }
